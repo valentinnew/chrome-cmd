@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Command line",
+    "version": "0.1",
+
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+
+    "permissions": [
+        "tabs"
+    ],
+
+    "browser_action": {
+        "default_title": "LostTime",
+        "default_icon": "icon16.png",
+        "default_popup": "popup.html"
+    }
+}

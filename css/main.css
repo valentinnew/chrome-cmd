@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.error {
+    color: #d43f3a;
+    padding-left: 10px;
+}
+
+.command-result {
+    padding-left: 10px;
+}
