@@ -41,10 +41,10 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="21" column="59" lean-forward="false" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+                <state relative-caret-position="324">
+                  <caret line="214" column="38" lean-forward="false" selection-start-line="214" selection-start-column="38" selection-end-line="214" selection-end-column="38" />
                   <folding>
-                    <marker date="1492611609000" expanded="true" signature="4384:4390" ph=" " />
+                    <marker date="1492611929813" expanded="true" signature="4336:4342" ph=" " />
                   </folding>
                 </state>
               </provider>
@@ -331,7 +331,7 @@
         <state relative-caret-position="510">
           <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
-            <marker date="1492611609000" expanded="true" signature="4384:4390" ph=" " />
+            <marker date="1492611929813" expanded="true" signature="4336:4342" ph=" " />
           </folding>
         </state>
       </provider>
@@ -371,10 +371,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="59" lean-forward="false" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="324">
+          <caret line="214" column="38" lean-forward="false" selection-start-line="214" selection-start-column="38" selection-end-line="214" selection-end-column="38" />
           <folding>
-            <marker date="1492611609000" expanded="true" signature="4384:4390" ph=" " />
+            <marker date="1492611929813" expanded="true" signature="4336:4342" ph=" " />
           </folding>
         </state>
       </provider>
